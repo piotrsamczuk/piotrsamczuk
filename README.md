@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Piotr Samczuk 👋
 
-<!--
-**piotrsamczuk/piotrsamczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer | Mechatronics Engineer
 
-Here are some ideas to get you started:
+```cpp
+#include <string>
+#include <vector>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+struct AboutMe {
+    std::string current = "Software Developer at Nokia";
+    std::string education = "MEng in IT Automation Systems | BEng in Mechatronics";
+    std::string location = "Wrocław, Poland";
+    std::vector<std::string> interests = {"AI/ML", "Reinforcement Learning", "Optimization Algorithms"};
+};
+```
+
+Currently pursuing a Master's in IT Automation Systems while working as a Software Developer at Nokia in the telecommunications sector. With a background in Mechatronics Engineering, I combine hardware knowledge with strong modern C++ development skills and a growing interest in AI/ML technologies.
+
+### Tech Stack
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![GTest](https://img.shields.io/badge/-GTest-4285F4?style=flat-square&logo=google&logoColor=white)
+
+### Recent Projects
+
+- 🧬 **[Parallel Island Model Genetic Algorithm](https://github.com/piotrsamczuk/parallel-genetic-algorithm)** - C++ implementation with OpenMP achieving up to 6x speedup
+- 🐜 **[Ant Colony Optimization for TSP](https://github.com/piotrsamczuk/ant-colony-optimization)** - Python implementation comparing different ACO strategies
+
+### Experience
+
+- **Software Developer** at Nokia (2024 - Present)
+- **Working Student** at Nokia (2023 - 2024)
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piotrsamczuk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samczukp@gmail.com)
+
+---
+
+<p align="center"><i>When I'm not coding, you'll find me training boxing and K1 kickboxing 🥊</i></p>
