@@ -30,6 +30,11 @@ Currently pursuing a Master's in IT Automation Systems while working as a Softwa
 - 🧬 **[Parallel Island Model Genetic Algorithm](https://github.com/piotrsamczuk/TSP-IslandParallelization)** - C++ implementation with OpenMP achieving up to 6x speedup
 - 🐜 **[Ant Colony Optimization for TSP](https://github.com/piotrsamczuk/ANT-TSP-v2)** - Python implementation comparing different ACO strategies
 
+### 🌱 What I'm Learning Next
+
+- **Rust** - Learning systems programming with memory safety and performance focus
+- **TensorFlow/PyTorch** - Deepening my AI/ML knowledge with practical frameworks
+
 ---
 
 <p align="center"><i>When I'm not coding, you'll find me training boxing and K1 kickboxing 🥊</i></p>
