@@ -30,11 +30,6 @@ Currently pursuing a Master's in IT Automation Systems while working as a Softwa
 - 🧬 **[Parallel Island Model Genetic Algorithm](https://github.com/piotrsamczuk/parallel-genetic-algorithm)** - C++ implementation with OpenMP achieving up to 6x speedup
 - 🐜 **[Ant Colony Optimization for TSP](https://github.com/piotrsamczuk/ant-colony-optimization)** - Python implementation comparing different ACO strategies
 
-### Experience
-
-- **Software Developer** at Nokia (2024 - Present)
-- **Working Student** at Nokia (2023 - 2024)
-
 ---
 
 <p align="center"><i>When I'm not coding, you'll find me training boxing and K1 kickboxing 🥊</i></p>
