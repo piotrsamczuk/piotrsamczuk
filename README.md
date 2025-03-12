@@ -35,11 +35,6 @@ Currently pursuing a Master's in IT Automation Systems while working as a Softwa
 - **Software Developer** at Nokia (2024 - Present)
 - **Working Student** at Nokia (2023 - 2024)
 
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piotrsamczuk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samczukp@gmail.com)
-
 ---
 
 <p align="center"><i>When I'm not coding, you'll find me training boxing and K1 kickboxing 🥊</i></p>
