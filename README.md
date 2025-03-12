@@ -27,8 +27,8 @@ Currently pursuing a Master's in IT Automation Systems while working as a Softwa
 
 ### Recent Projects
 
-- 🧬 **[Parallel Island Model Genetic Algorithm](https://github.com/piotrsamczuk/parallel-genetic-algorithm)** - C++ implementation with OpenMP achieving up to 6x speedup
-- 🐜 **[Ant Colony Optimization for TSP](https://github.com/piotrsamczuk/ant-colony-optimization)** - Python implementation comparing different ACO strategies
+- 🧬 **[Parallel Island Model Genetic Algorithm](https://github.com/piotrsamczuk/TSP-IslandParallelization)** - C++ implementation with OpenMP achieving up to 6x speedup
+- 🐜 **[Ant Colony Optimization for TSP](https://github.com/piotrsamczuk/ANT-TSP-v2)** - Python implementation comparing different ACO strategies
 
 ---
 
