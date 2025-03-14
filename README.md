@@ -29,6 +29,7 @@ Currently pursuing a Master's in IT Automation Systems while working as a Softwa
 
 - 🧬 **[Parallel Island Model Genetic Algorithm](https://github.com/piotrsamczuk/TSP-IslandParallelization)** - C++ implementation with OpenMP achieving up to 6x speedup
 - 🐜 **[Ant Colony Optimization for TSP](https://github.com/piotrsamczuk/ANT-TSP-v2)** - Python implementation comparing different ACO strategies
+- 📷 **[Image Processing with Orthogonal Expansions](https://github.com/piotrsamczuk/IMS-Projekt)** - C++ implementation of DFT and Wavelet transforms with various filters and visualization tools
 
 ### 🌱 What I'm Learning Next
 
